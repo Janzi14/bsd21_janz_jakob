@@ -15,6 +15,13 @@ It was created to aid teachers in the process of selecting a random student for 
 ## Author
 Jakob Janz
 
+
+[Click here to get to my github profile](https://github.com/Janzi14)
+
+
+[Click here to get to my university homepage](https://www.campus02.at)
+
+
 ## List
 
 1. [Exercise1](exercise1.md)
