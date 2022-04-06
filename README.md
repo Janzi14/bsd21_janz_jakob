@@ -26,4 +26,5 @@ Jakob Janz
 
 1. [Exercise1](exercise1.md)
 2. [Exercise2](exercise2.md)
-3. more exercises to come...
+3. [Exercise3](exercise3.md)
+4. more exercises to come...
