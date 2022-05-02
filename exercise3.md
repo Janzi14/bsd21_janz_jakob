@@ -1,10 +1,10 @@
 # MAVEN
 ## Target
-![Target](target.png)
+![Target](resources/images/target.png)
 This directory contains the build output.
 
 ## Compiling Project
-![Screenshot Compile](TerminalCompile.png)
+![Screenshot Compile](resources/images/TerminalCompile.png)
 
 ## Running Project
-![Screen](RunScreenshot.png)
+![Screen](resources/images/RunScreenshot.png)

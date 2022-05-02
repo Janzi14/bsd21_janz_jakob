@@ -6,7 +6,7 @@ It was created to aid teachers in the process of selecting a random student for 
 -selects a random number in a preselected range
 
 ## Visuals
-![Screen](screenshot.png)
+![Screen](resources/images/screenshot.png)
 ## Installation
 
 - Download the flutter sdk and Android Studio:

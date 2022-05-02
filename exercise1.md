@@ -7,7 +7,7 @@
 
 ## Picture
 
-![Screen](screenshot.png)
+![Screen](resources/images/screenshot.png)
 
 ### Description
 
