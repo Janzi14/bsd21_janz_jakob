@@ -69,6 +69,12 @@ public class CalculatorTests {
         int result = (int) calculator.divide(6, 3);
         Assertions.assertEquals(2, result);
     }
+    @DisplayName("division by 0")
+    @Test
+    public void divide3() {
+        int result = (int) calculator.divide(6, 0);
+        Assertions.assertEquals(0, result);
+    }
 
     @DisplayName("faculty of -1")
     @Test
@@ -81,7 +87,7 @@ public class CalculatorTests {
     @Test
     public void faculty2() {
         int result = calculator.faculty(8);
-        int test = 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1;
+        int test = 8 * 7 * 6 * 5 * 4 * 3 * 2;
         Assertions.assertEquals(test, result);
     }
 
