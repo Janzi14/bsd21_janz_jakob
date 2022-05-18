@@ -21,6 +21,8 @@ Jakob Janz
 
 [Click here to get to my university homepage](https://www.campus02.at)
 
+## Templates
+[Configure log4j via xml](src/main/resources/log4j2.xml.template)
 
 ## List
 
@@ -28,4 +30,5 @@ Jakob Janz
 2. [Exercise2](exercise2.md)
 3. [Exercise3](exercise3.md)
 4. [Exercise4](exercise4.md)
-5. more exercises to come...
+5. [Exercise5](exercise5.md)
+6. more exercises to come...
