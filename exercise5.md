@@ -43,3 +43,4 @@ This turns off all the logging.
 4. Programmatically, by calling methods on the internal Logger class.
 
     [source](https://logging.apache.org/log4j/2.x/manual/configuration.html "source")
+:)
