@@ -26,7 +26,6 @@ public class CalculatorTests {
     /**
      * <p>The add1() method tests the addition of 2 and 4.
      * </p>
-     * @return the number 6
      */
     @DisplayName("adding 2 and 4")
     @Test
@@ -37,7 +36,6 @@ public class CalculatorTests {
     /**
      * <p>The add2() method tests the addition of -3 and 3.
      * </p>
-     * @return the number 0
      */
     @DisplayName("adding -3 and 3")
     @Test
@@ -49,7 +47,6 @@ public class CalculatorTests {
     /**
      * <p>The sub1() method tests the subtraction of 6 and 4.
      * </p>
-     * @return the number 2
      */
     @DisplayName("subtracting 4 from 6")
     @Test
@@ -61,7 +58,6 @@ public class CalculatorTests {
     /**
      * <p>The sub2() method tests the subtraction of -2 and 1.
      * </p>
-     * @return the number -3
      */
     @DisplayName("subtracting 1 from -2")
     @Test
@@ -72,7 +68,6 @@ public class CalculatorTests {
     /**
      * <p>The multiply1() method tests the multiplication of 3 and 4.
      * </p>
-     * @return the number 12
      */
     @DisplayName("multiplying 3 and 4")
     @Test
@@ -84,7 +79,6 @@ public class CalculatorTests {
     /**
      * <p>The multiply2() method tests the multiplication of -2 and 5.
      * </p>
-     * @return the number -10
      */
     @DisplayName("multiplying -2 and 5")
     @Test
@@ -95,7 +89,6 @@ public class CalculatorTests {
     /**
      * <p>The divide1() method tests the division 8 and 2.
      * </p>
-     * @return the number 4
      */
     @DisplayName("dividing 2 from 8")
     @Test
@@ -107,7 +100,6 @@ public class CalculatorTests {
     /**
      * <p>The divide2() method tests the division 6 and 3.
      * </p>
-     * @return the number 2
      */
     @DisplayName("dividing 3 from 6")
     @Test
@@ -118,7 +110,6 @@ public class CalculatorTests {
     /**
      * <p>The divide3() method tests a division by zero
      * </p>
-     * @return the number 0 and logs an error.
      */
     @DisplayName("division by 0")
     @Test
@@ -129,7 +120,6 @@ public class CalculatorTests {
     /**
      * <p>The faculty1() method tests a faculty of -1.
      * </p>
-     * @return the number 0.
      */
     @DisplayName("faculty of -1")
     @Test
@@ -140,7 +130,6 @@ public class CalculatorTests {
     /**
      * <p>TThe faculty2() method tests a faculty of 8.
      * </p>
-     * @return the number 40320.
      */
     @DisplayName("faculty of 8")
     @Test
@@ -152,7 +141,6 @@ public class CalculatorTests {
     /**
      * <p>TThe faculty3() method tests a faculty of 3.
      * </p>
-     * @return the number 6.
      */
     @DisplayName("faculty of 3")
     @Test
